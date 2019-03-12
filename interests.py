@@ -5,7 +5,7 @@ import pathlib
 # %% names: interests dictionary
 d = {
     "Abudi, Shachar": "Fill in interest here",
-    "Ajaj, Yasmeen": "Fill in interest here",
+    "Ajaj, Yasmeen": "developmental biology",
     "Ben-Omran, Munder": "Fill in interest here",
     "Bruno, Melissa": "Fill in interest here",
     "Cahill, Eileen": "Fill in interest here",
@@ -45,7 +45,7 @@ d = {
     "Pakhchanian, Haig": "Fill in interest here",
     "Reynolds, Hayley": "hiking",
     "Sepe-Forrest, Linnea": "Fill in interest here",
-    "Skarzynski, Martin": "Zumba",
+    "Skarzynski, Martin": "epidemiology",
     "Steenackers, Agata": "Fill in interest here",
     "Szabo, Roman": "Genetics",
     "Tan, Vee": "Fill in interest here",
